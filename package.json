@@ -1,0 +1,21 @@
+{
+  "name": "oma-terminal",
+  "description": "Archive with modules for terminals.",
+  "main": "self",
+  "version": "1.4.0",
+  "keywords": [
+    "JavaScript",
+    "class scripts",
+    "mainframe",
+    "terminal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-mainframe-architecture/oma-terminal.git"
+  },
+  "author": "open.mainframe@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-mainframe-architecture/oma-terminal/issues"
+  }
+}
