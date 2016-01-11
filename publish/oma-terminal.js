@@ -1,7 +1,7 @@
 function configure(bundle) {
   "use strict";
-  bundle.description = 'This bundle turns a browser into a booting terminal.';
-  bundle.archives = {
+  bundle.description = 'Boot a terminal in a new browser window.';
+  bundle.versions = {
     'oma-delta': '1.4.x',
     'oma-ui': '1.4.x'
   };
