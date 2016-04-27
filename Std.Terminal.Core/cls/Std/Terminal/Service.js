@@ -1,4 +1,4 @@
-'Std.BaseObject+Std.Manager'.subclass(function (I) {
+'BaseObject+Manager'.subclass(I => {
   "use strict";
   I.am({
     Abstract: false,

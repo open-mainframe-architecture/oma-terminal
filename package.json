@@ -2,7 +2,7 @@
   "name": "oma-terminal",
   "description": "Archive with modules for terminals.",
   "main": "index",
-  "version": "1.4.2",
+  "version": "2.0.0",
   "keywords": [
     "JavaScript",
     "class scripts",
